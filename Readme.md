@@ -1,4 +1,4 @@
-__UTS ALGORITMA__
+# __UTS ALGORITMA__
 
 NAMA: MUHAMMAD HAFIZH ALFAUZI
 
@@ -9,8 +9,15 @@ PRODI: TEKNIK INFORMATIKA
 MATA KULIAH: ALGORITMA 
 
 
+# Preview
 
-__Penjelasan Kode Python__
+![foto](https://github.com/Moviezal/ALGORITMA-/blob/312c29c62953f9fa8605b58cc8eaa626cd9fd0e6/1.jpeg)
+![foto](https://github.com/Moviezal/ALGORITMA-/blob/312c29c62953f9fa8605b58cc8eaa626cd9fd0e6/2.jpeg)
+![foto](https://github.com/Moviezal/ALGORITMA-/blob/312c29c62953f9fa8605b58cc8eaa626cd9fd0e6/3.jpeg)
+![foto](https://github.com/Moviezal/ALGORITMA-/blob/312c29c62953f9fa8605b58cc8eaa626cd9fd0e6/4.jpeg)
+
+
+# __Penjelasan Kode__
 
 _1. Class Barang_
 
