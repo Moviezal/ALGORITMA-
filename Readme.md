@@ -9,6 +9,7 @@ PRODI: TEKNIK INFORMATIKA
 MATA KULIAH: ALGORITMA 
 
 
+
 __Penjelasan Kode Python__
 
 _1. Class Barang_
