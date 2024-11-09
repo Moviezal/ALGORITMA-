@@ -8,18 +8,19 @@ PRODI: TEKNIK INFORMATIKA
 
 MATA KULIAH: ALGORITMA 
 
+
 __Penjelasan Kode Python__
 
-1. Class Barang
+_1. Class Barang_
 
-Class ini digunakan untuk menyimpan informasi dasar tentang barang yang dijual.
+Class ini digunakan untuk menyimpan informasi dasar tentang 8 yang dijual.
 
 Method __init__ menginisialisasi setiap barang dengan atribut kode, nama, dan harga.
 
 Setiap instance Barang akan memiliki data kode barang, nama, dan harga.
 
 
-2. Class ItemKeranjang
+_2. Class Item Keranjang_
 
 Class ini merepresentasikan item barang yang ditambahkan ke dalam keranjang, termasuk jumlah barang yang dibeli dan subtotalnya.
 
@@ -28,13 +29,13 @@ Method __init__ menerima parameter barang (objek dari class Barang) dan jumlah, 
 Objek ItemKeranjang akan disimpan dalam list items di class Keranjang.
 
 
-3. Class Keranjang
+_3. Class Keranjang_
 
 Class ini mewakili keranjang belanja yang berisi daftar item barang yang dipilih.
 
 Method __init__ menginisialisasi atribut items sebagai list kosong untuk menampung item belanja.
 
-Method tambah_barang:
+__Method tambah_barang:__
 
 Mengecek apakah barang yang ditambahkan sudah ada dalam keranjang.
 
@@ -43,12 +44,15 @@ Jika barang sudah ada, maka jumlah barang diperbarui, dan subtotal dihitung ulan
 Jika barang belum ada, item baru ditambahkan ke dalam items.
 
 
-Method tampilkan_daftar: Menampilkan daftar barang yang ada di keranjang dengan detail kode, nama, harga, jumlah, dan subtotal.
+__Method tampilkan daftar:__
 
-Method hitung_total: Mengembalikan total harga semua item di keranjang dengan menjumlahkan subtotal dari setiap ItemKeranjang.
+Menampilkan daftar barang yang ada di keranjang dengan detail kode, nama, harga, jumlah, dan subtotal.
+
+__Method hitung_total:__
+Mengembalikan total harga semua item di keranjang dengan menjumlahkan subtotal dari setiap ItemKeranjang.
 
 
-4. Class Kasir
+_4. Class Kasir_
 
 Class ini bertindak sebagai pengelola keranjang belanja dan menyimpan daftar barang yang tersedia di toko.
 
@@ -69,7 +73,7 @@ Jika tidak valid, pesan kesalahan ditampilkan.
 Method cetak_struk: Mencetak struk belanja yang berisi tanggal transaksi, daftar barang di keranjang, total belanja, dan ucapan terima kasih.
 
 
-5. Fungsi main
+_5. Fungsi main_
 
 Fungsi utama yang menyediakan menu interaktif bagi pengguna.
 
@@ -87,7 +91,7 @@ Fungsi ini menjalankan loop yang menawarkan pilihan berikut:
 Setiap pilihan dijalankan menggunakan if-elif, dan input digunakan untuk menerima masukan pengguna.
 
 
-Alur Penggunaan Program
+__Alur Penggunaan Program__
 
 1. Saat program dijalankan, objek Kasir dibuat, dan daftar barang yang tersedia ditampilkan dalam pilihan menu.
 
@@ -106,8 +110,6 @@ Memilih "4" untuk mengakhiri program.
 
 3. Program berjalan dalam loop sampai pengguna memilih untuk keluar.
 
-
-
-Ringkasan
+__Ringkasan__
 
 Kode ini membuat aplikasi kasir sederhana yang mengelola transaksi belanja dengan beberapa fitur dasar seperti menambahkan barang, menampilkan daftar belanja, menghitung total, dan mencetak struk.
