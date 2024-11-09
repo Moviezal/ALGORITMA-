@@ -120,7 +120,9 @@ Memilih "4" untuk mengakhiri program.
 
 # Hasil dari Penjelasan diatas
 
-![image](https://github.com/user-attachments/assets/ed233267-3db1-4e35-a5c8-c7bd056e694b)
+![PHOTO](https://github.com/Moviezal/ALGORITMA-/blob/33618fe6e12b698e028db450f4ee9c4b69360280/Hasil%201.jpeg)
+
+![PHOTO](https://github.com/Moviezal/ALGORITMA-/blob/33618fe6e12b698e028db450f4ee9c4b69360280/Hasil%202.jpeg)
 
 __Ringkasan__
 
