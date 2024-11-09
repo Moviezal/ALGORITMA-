@@ -1,4 +1,4 @@
-UTS Algoritma
+__UTS ALGORITMA__
 
 NAMA: MUHAMMAD HAFIZH ALFAUZI
 
@@ -8,7 +8,7 @@ PRODI: TEKNIK INFORMATIKA
 
 MATA KULIAH: ALGORITMA 
 
-Penjelasan Kode Python 
+__Penjelasan Kode Python__
 
 1. Class Barang
 
