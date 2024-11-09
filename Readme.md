@@ -118,6 +118,10 @@ Memilih "4" untuk mengakhiri program.
 
 3. Program berjalan dalam loop sampai pengguna memilih untuk keluar.
 
+# Hasil dari Penjelasan diatas
+
+![image](https://github.com/user-attachments/assets/ed233267-3db1-4e35-a5c8-c7bd056e694b)
+
 __Ringkasan__
 
 Kode ini membuat aplikasi kasir sederhana yang mengelola transaksi belanja dengan beberapa fitur dasar seperti menambahkan barang, menampilkan daftar belanja, menghitung total, dan mencetak struk.
